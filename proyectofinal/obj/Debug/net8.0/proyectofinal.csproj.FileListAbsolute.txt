@@ -1,0 +1,15 @@
+E:\1daw\programacion\proyectofinal\ProyectoFinal\bin\Debug\net8.0\proyectofinal.exe
+E:\1daw\programacion\proyectofinal\ProyectoFinal\bin\Debug\net8.0\proyectofinal.deps.json
+E:\1daw\programacion\proyectofinal\ProyectoFinal\bin\Debug\net8.0\proyectofinal.runtimeconfig.json
+E:\1daw\programacion\proyectofinal\ProyectoFinal\bin\Debug\net8.0\proyectofinal.dll
+E:\1daw\programacion\proyectofinal\ProyectoFinal\bin\Debug\net8.0\proyectofinal.pdb
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\proyectofinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\proyectofinal.AssemblyInfoInputs.cache
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\proyectofinal.AssemblyInfo.cs
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\proyectofinal.csproj.CoreCompileInputs.cache
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\proyectofinal.sourcelink.json
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\proyectofinal.dll
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\refint\proyectofinal.dll
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\proyectofinal.pdb
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\proyectofinal.genruntimeconfig.cache
+E:\1daw\programacion\proyectofinal\ProyectoFinal\obj\Debug\net8.0\ref\proyectofinal.dll
